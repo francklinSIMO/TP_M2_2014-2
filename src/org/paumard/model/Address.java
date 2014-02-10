@@ -26,4 +26,5 @@ public class Address {
 	public String toString() {
 		return "Address [libelle=" + libelle + ", commune=" + commune + "]";
 	}
+	
 }
